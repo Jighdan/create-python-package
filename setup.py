@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-	name = "create_python_pkg",
+	name = "create_python_pkg-jighdan",
 	author = "Reinny Almonte",
 	author_email = "reynsth@gmail.com",
 	url = "https://github.com/jighdan/create_python_package",

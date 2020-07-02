@@ -1,6 +1,12 @@
-# create_py_package
+# create-py-package
 A cli tool to create minimal template for Python packages.
 Based on [Thomas Stringer's filesystem structure](https://trstringer.com/easy-and-nice-python-cli/) 
+
+## Installation
+```bash
+	$ cd create-python-package
+	$ pip install -e . || pip3 install -e .
+```
 
 ## Usage
 ```bash
